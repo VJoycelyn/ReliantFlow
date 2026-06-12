@@ -51,8 +51,10 @@ The following logs show the agent performing a formal audit, including its chain
 
 3. ###Prood of Grounding
    These technical logs verify that the agent successfully retrieved data from the ReliabntFlow documentation, ensuring accurate compliance auditing.
- * **Audit Output/Input**: (assets/agent_compliance_response_log, agent_compliance_response_log_contd.png)
- *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.png)
+   
+5. * **Audit Output/Input**: (assets/agent_compliance_response_log.png, agent_compliance_response_log_contd.png)
+     
+6. *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.png)
      
 ## Built For 
 * **Microsoft Agents League Hackathon**
