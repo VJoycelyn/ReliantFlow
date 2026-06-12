@@ -37,6 +37,23 @@ ReliantFlow is more than a docuiment rader; it is the *infrastructure for the "B
 
 >"Our roadmap evolves from **Contract Auditing** to **Automated Financial Reconciliation**, providing a seamless, compliant path for creators to get paid faster, work safer, and scale with total sovereignty."
 
+##Project Evidence & Reasoning Trace 
+
+To demonstrate the reliability and reasoning capabilities of the ReliantFlow Contract Review Agent, the following execution evidence is provided: 
+
+### 1. System Configuration
+This screenshot confirms the agents core instructions and compliance parameters. 
+![System Instructions](The Agent Instructions panel.png)
+
+2. ### Execution Audit
+The following logs show the agent performing a formal audit, including its chain of thought and document citations. 
+![Audit Report](assets/reliantflow/audit_report_final.png,assets/reliantflow/audit_report_final_contd.png,assets/reliantflow/audit_report_final_end.png)
+
+3. ###Prood of Grounding
+   These technical logs verify that the agent successfully retrieved data from the ReliabntFlow documentation, ensuring accurate compliance auditing.
+ * **Audit Output/Input**: (assets/agent_compliance_response_log, agent_compliance_response_log_contd.png)
+ *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.png)
+     
 ## Built For 
 * **Microsoft Agents League Hackathon**
 * *Developed by Venetta J. Smithen  | www.linkedin.com/in/venettajsmithen
