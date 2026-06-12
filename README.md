@@ -58,6 +58,11 @@ The following logs show the agent performing a formal audit, including its chain
 5. *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.jpg)
   
 ##Live Demmo
+ReliantFlow: AI Agentic Contract Compliance Auditor
+You can see the Live Demo Video here 
+(Click here to access the Live Demo Video) https://youtu.be/MZP9tnNXQ_k?si=jJnxjyF3agjvXPqL
+
+Agent Trace Link 
 You can interact with the live ContractReviewAgentsin the Azure AI Foundry Playground:
 (Click here to access the ContractReviewAgent) https://ai.azure.com/nextgen/r/Zv8tUC5uTmq2qQTdWg_I5g,rg-dev,,cog-odz7c3yzgk6yo,reliantflow-project/build/agents/ContractReviewAgent/traces
      
