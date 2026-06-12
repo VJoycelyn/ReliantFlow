@@ -44,7 +44,7 @@ To demonstrate the reliability and reasoning capabilities of the ReliantFlow Con
 
 ### 1. System Configuration
 This screenshot confirms the agents core instructions and compliance parameters. 
-![System Instructions](The Agent Instructions panel.png)
+![System Instructions](The Agent Instructions panel.jpg)
 
 2. ### Execution Audit
 The following logs show the agent performing a formal audit, including its chain of thought and document citations. 
@@ -53,9 +53,9 @@ The following logs show the agent performing a formal audit, including its chain
 3. ###Prood of Grounding
    These technical logs verify that the agent successfully retrieved data from the ReliabntFlow documentation, ensuring accurate compliance auditing.
    
-5. * **Audit Output/Input**: (assets/agent_compliance_response_log.png, agent_compliance_response_log_contd.png)
+.4. * **Audit Output/Input**:(assets/agent_compliance_response_log.jpg, assets/agent_compliance_response_log_contd.jpg)
      
-6. *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.png)
+5. *  *Execution Metadata**: ![Technical logs](assets/compliance_audit_metadata.jpg) 
      
 ## Built For 
 * **Microsoft Agents League Hackathon**
